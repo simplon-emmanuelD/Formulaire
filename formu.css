@@ -1,0 +1,22 @@
+
+#formu
+{
+    color: black;
+ background: linear-gradient(to bottom right, red, white);
+    
+}
+
+body
+{
+   background-image: url(fond2.png) ;
+    max-width: 100%;
+    font-family: "arial";
+    font-size: 20px;
+   
+   
+}
+
+
+
+
+
